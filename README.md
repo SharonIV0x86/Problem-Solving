@@ -12,10 +12,10 @@ Contiains solutions to the beginner problems practised on <b>Codeforces</b>
 [Codeforces Profile](https://codeforces.com/profile/AnirudhLakhanpal)
 
 ## Hackerrank
-The folder contains <b>C++</b> problems practised on platform.
+The folder contains <b>C++</b> problems practised on Hackerrank.
 [Hackerrank profile](https://www.hackerrank.com/profile/anirudhlakhanpa1)
 
-
+<br> <br> <br> <br> <br> <br> <br> <br> 
 
 </div>
 
