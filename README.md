@@ -15,10 +15,8 @@ Contiains solutions to the beginner problems practised on <b>Codeforces</b>
 The folder contains <b>C++</b> problems practised on Hackerrank.
 [Hackerrank profile](https://www.hackerrank.com/profile/anirudhlakhanpa1)
 
-<br> <br> <br> <br> <br> <br> <br> <br> 
+<br> <br> <br> <br> 
 
-</div>
 
-<div style="text-align:center;">
 
 ![image](https://qph.cf2.quoracdn.net/main-qimg-b8837130b6cca4c3bb30706e34acb953-lq)
